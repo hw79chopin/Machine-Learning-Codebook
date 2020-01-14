@@ -33,7 +33,7 @@
  - Machine learning 관련 메소드 모음
  
 ### 3. Supervised Learning
- - 0-1. Regression
+ - 3-1. Regression
    - Linear regression
    - Gradient descent
    - Stochastic gradient descent
@@ -42,9 +42,9 @@
    - Ridge
    - Logistic regression
    - Softmax function
- - 0-2. Classification
- - 0-3. Decision tree
- - 0-4. Ensemble
+ - 3-2. Classification
+ - 3-3. Decision tree
+ - 3-4. Ensemble
    - Random Forest
    - Bagging
    - Boosting
