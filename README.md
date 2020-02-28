@@ -62,4 +62,4 @@
 ### 5. 기타 ML에 필요한 기법들
  - Sampling
  - Scaling
- - GridsearchCV
+ - Hyperparameter Tuning
