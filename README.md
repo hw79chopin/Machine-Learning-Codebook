@@ -48,6 +48,8 @@
    - Random Forest
    - Bagging
    - Boosting
+   - Pasting
+   - Stacking
    
 ### 4. Unsupervised Learning
  - Dimensionality reduction
