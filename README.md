@@ -1,22 +1,21 @@
-# Machine Learning
-![](https://www.einfochips.com/blog/wp-content/uploads/2018/11/how-to-develop-machine-learning-applications-for-business-featured.jpg)
-머신러닝 입문자를 위한 머신러닝 설명서~~~
+# `Machine Learning Codebook`
+`#Machine Leaning` `#Supervised Learning` `#Unsupervised Learning`
 <br>
 <br>
 <br>
 
-# 소개 및 목표
- - 본 파일은 Hyun이 머신러닝을 공부하면서 개념 및 모델들을 정리해둔 jupyter notebook!
- - 매번 공부하면서 봤던 자료들이 한 곳에 있으면 좋겠다라는 생각에 다 모아보았다!
+# 1. 소개 및 목표
+ - 본 파일은 내가 머신러닝을 공부하면서 개념 및 모델들을 정리해둔 jupyter notebook이다.
+ - 매번 공부하면서 봤던 자료들이 한 곳에 있으면 좋겠다라는 생각에 다 모아보았다.
  - 머신러닝 중에서 지도학습, 비지도학습 부분 위주로 만들었다.
  - 앞부분에는 머신러닝이 어떤 거고 어떤 프로레스로 진행되는지 YBIGTA 2020-1에 강의했던 자료를 추가하였다.
  - 머신러닝에서 자주 사용하는 용어, 메소드를 정리해두어서 모르는 용어 있으면 바로 참고해두기 쉽게 해두었다!
  - 다양한 github blog, <Hands on Machine Learning> 등을 참고하였다.
- - #### Tip) Google Colab으로 열면 더 보기 편해요~</font>
+ - #### `Tip) Google Colab으로 열면 더 보기 편해요~`
 <br>
 <br>
 
-# 목차
+# 2. 목차
 
 ### 1. Machine Learning은 무엇일까???
  - 1.1 Machine Learning 관련 개념정리
