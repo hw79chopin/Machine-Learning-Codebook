@@ -1,10 +1,11 @@
-# `Machine Learning Codebook`
+<h1 align="center"><strong>🔎 Machine Learning Codebook</strong></h3>
+
 `#Machine Leaning` `#Supervised Learning` `#Unsupervised Learning`
 <br>
 <br>
 <br>
 
-# 1. 소개 및 목표
+# 🚦 1. 소개 및 목표
  - 본 파일은 내가 머신러닝을 공부하면서 개념 및 모델들을 정리해둔 jupyter notebook이다.
  - 매번 공부하면서 봤던 자료들이 한 곳에 있으면 좋겠다라는 생각에 다 모아보았다.
  - 머신러닝 중에서 지도학습, 비지도학습 부분 위주로 만들었다.
@@ -15,7 +16,7 @@
 <br>
 <br>
 
-# 2. 목차
+# 🚦 2. 목차
 
 ### 1. Machine Learning은 무엇일까???
  - 1.1 Machine Learning 관련 개념정리
@@ -64,3 +65,5 @@
    - DBSCAN
    - Gaussian Mixture model (GMM)
    - KNN clustering
+
+<h3 align="center"><strong>끗! 🙌</strong></h3>
