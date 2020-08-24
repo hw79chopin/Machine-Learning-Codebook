@@ -14,7 +14,8 @@
  - 다양한 github blog, <Hands on Machine Learning> 등을 참고하였다.
  - #### `Tip) Google Colab으로 열면 더 보기 편해요~`
 <br>
-<br>
+
+---
 
 # 🚦 2. 목차
 
