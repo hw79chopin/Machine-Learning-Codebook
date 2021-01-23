@@ -1,3 +1,10 @@
+<h1 align="center" style="background-color:#00FEFE"><strong>🔎 Machine Learning Codebook</strong></h3>
+<p align="center"><img width="300"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png"> <img width="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"> </p>
+
+`#Machine Learning` `#Supervised Learning` `#Unsupervised Learning`
+
+<br>
+
 # 🚦 1. Introduction
 
 `Machine Learning Codebook` is a tutorial of machine learning for those who are studying Machine Learning. This repo deals with machine learning intro and supervised, unsupervised learning. Most of the contents have explanation of model and example codes.
